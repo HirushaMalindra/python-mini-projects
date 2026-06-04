@@ -11,4 +11,4 @@ Rather than creating a new repository for every small script, I use this space t
 | **PDF to Image** | Converts multi-page PDF documents into high-res JPG/PNG files. | `pdf2image`, `Pillow` | [Go to folder](./PDF2Image-converter) |
 | **Digital Compass** | A simple directional compass visualization tool. | `matplotlib`, `numpy` | [Go to folder](./Compass%20using%20python) |
 | **Email Validation** | Check Emails whether it Valid or not. |  `re` | [Go to folder](./Email-Validation) |
-
+| **Power Status** | Show you device power status. |  `matplotlib.pyplot as plt` , `numpy as np`, `psutil` | [Go to folder](./Advance%20Power%20Ring) |
