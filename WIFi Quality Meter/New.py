@@ -1,6 +1,6 @@
 import pywifi
 import time
-wifi = pywifi.pywifi()
+wifi = pywifi.PyWiFi()
 iface = wifi.interfaces()[0]
 iface.scan()
 time.sleep(3)
